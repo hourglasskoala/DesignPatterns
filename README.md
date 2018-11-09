@@ -1,5 +1,7 @@
 # DesignPatterns
 ```
+answer:https://my.oschina.net/u/238082/blog/214548
+
 一、设计模式的分类
 
 总体来说设计模式分为三大类：
